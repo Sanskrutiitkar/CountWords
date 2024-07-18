@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\sanskruti.itkar\source\repos\CountWords\bin\Debug\CountWords.exe
+C:\Users\sanskruti.itkar\source\repos\CountWords\bin\Debug\CountWords.pdb
+C:\Users\sanskruti.itkar\source\repos\CountWords\obj\Debug\CountWords.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\CountWords\obj\Debug\CountWords.exe
+C:\Users\sanskruti.itkar\source\repos\CountWords\obj\Debug\CountWords.pdb
